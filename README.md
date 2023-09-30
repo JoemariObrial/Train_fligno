@@ -1,7 +1,4 @@
-# Train_fligno
-
-Joemari Obrial
+Joemari BSIT
 
 
-
-For Stash purpopses - 1
+learn@fligno
